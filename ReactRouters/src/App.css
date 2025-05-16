@@ -1,0 +1,22 @@
+/* Global styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure main content takes up available space */
+main {
+  flex: 1 0 auto;
+}
+
+/* Footer styles */
+footer {
+  flex-shrink: 0;
+}
