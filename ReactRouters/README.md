@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Muhammad Ahsan Mughal** - *Initial work* - [YourGitHub](https://github.com/ahasn-9)
+- **Muhammad Ahsan Mughal** - *Initial work* - [GitHub](https://github.com/ahasn-9)
 
 ## 🙏 Acknowledgments
 
@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the repository.
+For support, email mughalahsan718@gmail.com or open an issue in the repository.
